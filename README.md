@@ -20,7 +20,7 @@ You can download the code in two common ways.
 2. Clone the repo:
 
 ```bash
-git clone <REPLACE_WITH_YOUR_GITHUB_REPO_URL>
+git clone git@github.com:kids-python-book/treasure-hunt-game.git
 ```
 
 3. Enter the folder:
